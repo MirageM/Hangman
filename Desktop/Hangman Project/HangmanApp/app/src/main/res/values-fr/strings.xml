@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">bourreau</string>
+    <string name="txt_wel">Bienvenue au jeu du pendu</string>
+    <string name="btn_fr">français</string>
+    <string name="btn_en">Anglais</string>
+    <string name="btn_restgame">Recommencer le jeu </string>
+    <string name="txt_let"> Entrez une lettre </string>
+    <string name="exc_msg"> Excellent!! c\'est une estimation correcte </string>
+    <string name="wrong_msg"> mauvaise estimation </string>
+    <string name="res_st"> Résultat: </string>
+    <string name="txt_nwg"> Le nombre de mauvaises suppositions est:</string>
+    <string name="res_playerwon"> Joueur gagné </string>
+    <string name="res_compwon"> Ordinateur gagné </string>
+</resources>

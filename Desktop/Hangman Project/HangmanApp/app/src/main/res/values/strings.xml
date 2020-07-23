@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="txt_wel">Welcome to Hangman Game</string>
+    <string name="btn_fr">French</string>
+    <string name="btn_en">English</string>
+    <string name="btn_restgame">Restart Game</string>
+    <string name="txt_let">Enter a Letter </string>
+    <string name="exc_msg">Excellent!! this is a correct guess </string>
+    <string name="wrong_msg"> Wrong guess </string>
+    <string name="res_st">Result: </string>
+    <string name="txt_nwg"> The number of wrong guesses is: </string>
+    <string name="res_playerwon"> Player Won </string>
+    <string name="res_compwon"> Computer Won </string>
+</resources>
